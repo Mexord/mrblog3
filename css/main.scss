@@ -100,9 +100,3 @@ body {
 #accept-cookie:hover {
   background-color: #45a049;
 }
-
-/* Füge den Blur-Effekt hinzu */
-body.blur {
-  filter: blur(5px);
-  pointer-events: none; /* Verhindert Interaktionen mit der Seite, während der Blur aktiv ist */
-}
