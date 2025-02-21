@@ -12,5 +12,37 @@
 
       {% include footer.html %}
     </div>
+
+    <!-- Cookie Popup -->
+    <div id="cookie-popup" class="cookie-popup">
+      <div class="cookie-popup-content">
+        <p>Wir verwenden Cookies, um deine Erfahrung auf unserer Website zu verbessern. Wenn du fortfährst, gehen wir davon aus, dass du damit einverstanden bist.</p>
+        <button id="accept-cookie">Akzeptieren</button>
+      </div>
+    </div>
+
+    <script>
+    // Wenn der Benutzer das Popup akzeptiert hat, wird es geschlossen
+    document.getElementById('accept-cookie').addEventListener('click', function() {
+      // Setze ein Cookie, um zu speichern, dass der Benutzer das Popup akzeptiert hat
+      document.cookie = "cookies_accepted=true; path=/; max-age=" + 60 * 60 * 24 * 365; // 1 Jahr
+
+      // Entferne den Blur-Effekt
+      document.body.classList.remove('blur');
+
+      // Verstecke das Popup
+      document.getElementById('cookie-popup').style.visibility = 'hidden';
+    });
+
+    // Überprüfe, ob das Cookie existiert
+    window.onload = function() {
+      if (document.cookie.indexOf('cookies_accepted=true') === -1) {
+        // Zeige das Popup und wende den Blur-Effekt an
+        document.getElementById('cookie-popup').style.visibility = 'visible';
+        document.body.classList.add('blur');
+      }
+    }
+    </script>
+
   </body>
 </html>
