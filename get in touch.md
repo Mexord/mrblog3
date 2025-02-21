@@ -31,9 +31,6 @@ Wir freuen uns, von dir zu hören! Bitte fülle das Formular aus und wir werden 
   <label for="email">E-Mail:</label><br>
   <input type="email" id="email" name="email" minlength="7" required><br><br>
 
-  <label for="message">Nachricht:</label><br>
-  <textarea id="message" name="message" rows="4" required></textarea><br><br>
-
   <button type="submit">Absenden</button>
 </form>
 
