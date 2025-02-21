@@ -8,6 +8,7 @@ permalink: /get-in-touch
 
 Wir freuen uns, von dir zu hören! Bitte fülle das Formular aus und wir werden uns so schnell wie möglich bei dir melden.
 
+{% raw %}
 <form action="https://formspree.io/f/xyyojpla" method="POST">
   <label for="first-name">Vorname:</label>
   <input type="text" id="first-name" name="first-name" required><br><br>
@@ -23,3 +24,6 @@ Wir freuen uns, von dir zu hören! Bitte fülle das Formular aus und wir werden 
 
   <button type="submit">Absenden</button>
 </form>
+{% endraw %}
+
+<p>Alternativ kannst du uns auch direkt per E-Mail unter <a href="mailto:kontakt@magischer-verlag.de">kontakt@magischer-verlag.de</a> erreichen.</p>
