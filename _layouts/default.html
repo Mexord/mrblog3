@@ -27,9 +27,6 @@
       // Setze ein Cookie, um zu speichern, dass der Benutzer das Popup akzeptiert hat
       document.cookie = "cookies_accepted=true; path=/; max-age=" + 60 * 60 * 24 * 365; // 1 Jahr
 
-      // Entferne den Blur-Effekt
-      document.body.classList.remove('blur');
-
       // Verstecke das Popup
       document.getElementById('cookie-popup').style.visibility = 'hidden';
     });
@@ -37,9 +34,8 @@
     // Überprüfe, ob das Cookie existiert
     window.onload = function() {
       if (document.cookie.indexOf('cookies_accepted=true') === -1) {
-        // Zeige das Popup und wende den Blur-Effekt an
+        // Zeige das Popup
         document.getElementById('cookie-popup').style.visibility = 'visible';
-        document.body.classList.add('blur');
       }
     }
     </script>
