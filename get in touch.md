@@ -38,7 +38,7 @@ Wir freuen uns, von dir zu hören! Bitte fülle das Formular aus und wir werden 
 
   <!-- Nachricht (mindestens 150 Zeichen) -->
   <label for="message">Nachricht:</label><br>
-  <textarea id="message" name="message" rows="4" minlength="150" required></textarea><br><br>
+  <textarea id="message" name="message" rows="6" pattern=".{150,}" required></textarea><br><br>
 
   <button type="submit">Absenden</button>
 </form>
