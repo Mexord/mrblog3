@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Get in Touch
-permalink: /get in touch
+permalink: /get-in-touch
 ---
 
 # Kontaktformular
@@ -38,7 +38,7 @@ Wir freuen uns, von dir zu hören! Bitte fülle das Formular aus und wir werden 
 
   <!-- Nachricht (mindestens 150 Zeichen) -->
   <label for="message">Nachricht:</label><br>
-  <input type="text" id="message" name="message" minlength="150" required style="height: 100px; width: 100%;"><br><br>
+  <input type="text" id="message" name="message" minlength="150" required style="height: 400px; width: 400px;"><br><br>
 
   <button type="submit">Absenden</button>
 </form>
