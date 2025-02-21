@@ -4,4 +4,4 @@ title: Get in Touch
 permalink: /get in touch
 ---
 
-# Kontaktformular
+# Get in Touch
