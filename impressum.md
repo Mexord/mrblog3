@@ -49,7 +49,7 @@ Kontaktformular:
   <input type="text" id="message" name="message" minlength="150" required style="height: 400px; width: 100%;"><br><br>
 
   <button type="submit">Absenden</button>
-</form>
+</form>  
 
 
 **Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**  
