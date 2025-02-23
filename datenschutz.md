@@ -73,6 +73,6 @@ Sollten Sie der Meinung sein, dass die Verarbeitung Ihrer Daten gegen das Datens
 ## 14. Aktualisierung dieser Datenschutzerklärung  
 Ich behalte mir vor, diese Datenschutzerklärung anzupassen, um sie an geänderte rechtliche Anforderungen oder neue Funktionen meines Blogs anzupassen. Bitte prüfen Sie die Datenschutzerklärung regelmäßig.
 
-*Stand: Februar 2025*
+**Stand: Februar 2025**
 
 
