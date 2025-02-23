@@ -17,31 +17,27 @@
     <div id="cookie-popup" class="cookie-popup">
       <div class="cookie-popup-content">
         <p>Diese Website verwendet nur Cookies, die unbedingt erforderlich sind, um die grundlegenden Funktionen der Seite zu gewährleisten (z. B. für die Darstellung von Seiten). Auf dieser Website werden jedoch eingebettete Inhalte von Drittanbietern wie zum Beispiel YouTube-Videos, Formspree, Google Fonts und Sozial-Media genutzt. Diese Drittanbieter können möglicherweise Cookies auf Ihrem Gerät setzen. Weitere Informationen finden Sie in den Datenschutzrichtlinien des jeweiligen Anbieters.</p>
-        <p>Weitere Informationen finden Sie in unserer <a href="/datenschutz">Datenschutzerklärung</a> und im <a href="/impressum">Impressum</a>.</p>
         <button id="accept-cookie">Akzeptieren</button>
-        <button id="reject-cookie">Ablehnen</button>
       </div>
     </div>
 
     <script>
-    // Akzeptieren-Button
+    // Wenn der Benutzer das Popup akzeptiert hat, wird es geschlossen
     document.getElementById('accept-cookie').addEventListener('click', function() {
+      // Setze ein Cookie, um zu speichern, dass der Benutzer das Popup akzeptiert hat
       document.cookie = "cookies_accepted=true; path=/; max-age=" + 60 * 60 * 24 * 365; // 1 Jahr
-      document.getElementById('cookie-popup').style.display = 'none';
+
+      // Verstecke das Popup
+      document.getElementById('cookie-popup').style.visibility = 'hidden';
     });
 
-    // Ablehnen-Button
-    document.getElementById('reject-cookie').addEventListener('click', function() {
-      document.cookie = "cookies_accepted=false; path=/; max-age=" + 60 * 60 * 24 * 365; // 1 Jahr
-      document.getElementById('cookie-popup').style.display = 'none';
-    });
-
-    // Überprüfen, ob das Cookie gesetzt wurde
+    // Überprüfe, ob das Cookie existiert
     window.onload = function() {
-      if (document.cookie.indexOf('cookies_accepted=true') === -1 && document.cookie.indexOf('cookies_accepted=false') === -1) {
-        document.getElementById('cookie-popup').style.display = 'block';
+      if (document.cookie.indexOf('cookies_accepted=true') === -1) {
+        // Zeige das Popup
+        document.getElementById('cookie-popup').style.visibility = 'visible';
       }
-    };
+    }
     </script>
 
   </body>
