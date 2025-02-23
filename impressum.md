@@ -51,6 +51,7 @@ Kontaktformular:
   <button type="submit">Absenden</button>
 </form>
 
+
 **Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**  
 Max Mustermann  
 Musterstraße 1  
