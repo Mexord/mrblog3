@@ -85,9 +85,10 @@ body {
   text-align: center;
   max-width: 400px;
   width: 100%;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
-#accept-cookie {
+#accept-cookie, #reject-cookie {
   background-color: #4CAF50;
   color: white;
   padding: 10px 20px;
@@ -95,8 +96,17 @@ body {
   border-radius: 5px;
   cursor: pointer;
   font-size: 16px;
+  margin: 5px;
 }
 
 #accept-cookie:hover {
   background-color: #45a049;
+}
+
+#reject-cookie {
+  background-color: #e25440;
+}
+
+#reject-cookie:hover {
+  background-color: #d43f31;
 }
