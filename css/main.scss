@@ -102,15 +102,10 @@ body {
 }
 
 #reject-cookie {
-  background-color: #888; /* Graue Farbe */
+  background-color: #888;
   color: white;
-  padding: 10px 20px;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  font-size: 16px;
 }
 
 #reject-cookie:hover {
-  background-color: #777; /* Dunkleres Grau beim Hover */
+  background-color: #777;
 }
