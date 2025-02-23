@@ -30,7 +30,7 @@ SOFTWARE.
 ------------------------------------------------------------------------------------
 
 
-Dieses Repository verwendet unter anderem das Uno Theme von David Welches, das unter der MIT-Lizenz veröffentlicht wurde. Die Originaldateien des Uno Themes unterliegen weiterhin dieser Lizenz, die im Folgenden aufgeführt ist. Für alle Änderungen, Anpassungen, Inhalte und Bilder, die von dem Autor dieses Repositories erstellt wurden, gilt jedoch ausdrücklich der Urheberschutz. Diese dürfen ohne vorherige schriftliche Genehmigung des Autors nicht verwendet, reproduziert oder verbreitet werden.
+Dieses Repository verwendet unter anderem das Uno Theme von Josh Gerdes, das unter der MIT-Lizenz veröffentlicht wurde. Die Originaldateien des Uno Themes unterliegen weiterhin dieser Lizenz, die im Folgenden aufgeführt ist. Für alle Änderungen, Anpassungen, Inhalte und Bilder, die von dem Autor dieses Repositories erstellt wurden, gilt jedoch ausdrücklich der Urheberschutz. Diese dürfen ohne vorherige schriftliche Genehmigung des Autors nicht verwendet, reproduziert oder verbreitet werden.
 
 Nachstehend die Original-Lizenzvereinbarung des Uno Themes, das Bestandteil dieses Repositories ist:
 
