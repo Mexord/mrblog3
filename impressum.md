@@ -6,20 +6,16 @@ permalink: /impressum
 
 # Impressum
 
-**Magischer Verlag GmbH**  
-Zaubererweg 42  
-12345 Magia, Königreich Eldoria  
+**Angaben gemäß § 5 TMG und § 18 MStV**
 
-Vertreten durch den Geschäftsführer:  
-**Merlin der Große**  
-Zauberer und Chefmagier der Magischen Künste
+Max Mustermann  
+Musterstraße 1  
+12345 Musterstadt  
+Deutschland  
 
-**Kontakt**  
-E-Mail: kontakt@magischer-verlag.de  
-Telefon: +49 123 456789  
-Fax: +49 123 987654
-
-
+E-Mail: kontakt@musterblog.de  
+Telefon: +49 123 4567890  
+Kontaktformular:
 <form action="https://formspree.io/f/xyyojpla" method="POST">
 
   <!-- Vorname und Nachname (mindestens 3 Zeichen) -->
@@ -55,14 +51,22 @@ Fax: +49 123 987654
   <button type="submit">Absenden</button>
 </form>
 
-**Umsatzsteuer-ID**: DE123456789
+**Verantwortlich für den Inhalt nach § 18 Abs. 2 MStV:**  
+Max Mustermann  
+Musterstraße 1  
+12345 Musterstadt  
+Deutschland  
 
-**Haftungsausschluss**  
-Die Inhalte dieser Seite wurden mit größter Sorgfalt erstellt. Dennoch übernehmen wir keine Haftung für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte. Für externe Links und Seiten übernehmen wir keine Verantwortung.
+**Haftung für Inhalte**  
+Als Diensteanbieter bin ich gemäß § 7 Abs. 1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG bin ich als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werde ich diese Inhalte umgehend entfernen.
+
+**Haftung für Links**  
+Mein Blog enthält Links zu externen Websites Dritter, auf deren Inhalte ich keinen Einfluss habe. Deshalb kann ich für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Links umgehend entfernen.
 
 **Urheberrecht**  
-Alle Inhalte auf dieser Seite, einschließlich Texten, Bildern und Grafiken, sind urheberrechtlich geschützt. Eine Nutzung ohne ausdrückliche Genehmigung ist nicht gestattet.
+Die durch mich erstellten Inhalte und Werke auf diesem Blog unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechts bedürfen meiner schriftlichen Zustimmung. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf diesem Blog nicht von mir erstellt wurden, werden die Urheberrechte Dritter beachtet und entsprechend gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitte ich um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werde ich derartige Inhalte umgehend entfernen.
 
----
+**Streitschlichtung**  
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Ich bin nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-*Mit freundlicher Unterstützung von den Magiern der Großen Akademie für Zauberei und den Drachen von Eldoria.*
+**Stand: Februar 2025**
