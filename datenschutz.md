@@ -4,7 +4,7 @@ title: Datenschutzerklärung
 permalink: /datenschutz
 ---
 
-**Datenschutzerklärung**  
+# Datenschutzerklärung 
 
 **1. Verantwortlicher**  
 Max Mustermann  
