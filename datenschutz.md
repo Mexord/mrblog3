@@ -5,6 +5,8 @@ permalink: /datenschutz
 ---
 
 # Datenschutzerklärung 
+**Hinweis zur Nutzung der Kontaktdaten:**
+Die Nutzung der im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten zur Übersendung von nicht ausdrücklich angeforderter Werbung – sowohl per E-Mail als auch per Post – ist hiermit ausdrücklich untersagt. Der Betreiber dieser Seite behält sich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-E-Mails oder unaufgeforderte Werbepost, vor.
 
 ## 1. Verantwortlicher  
 Max Mustermann  
