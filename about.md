@@ -6,31 +6,8 @@ permalink: /about
 
 # Über diesen Blog
 
-Willkommen auf unserem fantastischen Blog! 🌟
+**Willkommen auf meinem Blog!**
 
-Dieser Blog ist ein Ort, an dem sich die Magie der Fantasie entfaltet. Hier nehmen wir dich mit auf eine Reise durch mystische Welten, epische Abenteuer und legendäre Geschichten. Egal, ob du ein erfahrener Fantasy-Leser bist oder gerade erst die Tür zu neuen Welten aufstößt, du bist hier genau richtig!
+Wahrscheinlich werden Sie, sobald Sie auf den ersten Beitrag im Blog klicken, sich über die Länge der Beiträge wundern und sich wahrscheinlich auch fragen: Wer soll das alles lesen? Ziel des Blogs ist es, aktuelle Themen und organisationale Herausforderungen aus den Bereichen Change Management, Business Development, Supply Chain Management, Logistik und Prozessmanagement in Form von Übersichtsarbeiten zu diskutieren. Dabei ist es mein Ziel, nicht nur tief in die einzelnen Themen einzutauchen, sondern jedem die Möglichkeit zu geben, dort einzusteigen, wo er gerade steht. Damit sollen nicht nur Experten und Kenner angesprochen werden, sondern auch Personen, die sich zum ersten Mal mit den Themen beschäftigen. Damit sich aber Personen, die sich bereits mit dem Thema auskennen, nicht erst durch die Grundlagen eines jeden Themas durcharbeiten müssen, sind alle meine Blogbeiträge mit einem Inhaltsverzeichnis versehen und so strukturiert, dass sie an jeder beliebigen Stelle einsteigen können. Außerdem enthalten alle meine Beiträge ein Vorwort und eine Zusammenfassung, damit Sie entscheiden können, ob es sich für Sie lohnt, die Beiträge durchzuarbeiten. 
 
-## Was erwartet dich hier?
-
-- **Epische Geschichten:** Tauche ein in Geschichten über tapfere Helden, dunkle Mächte und magische Kreaturen.
-- **Weltenbau:** Entdecke die Geheimnisse hinter der Schaffung fantastischer Welten und erfahre mehr über die Kunst des Weltenbaus.
-- **Buchrezensionen:** Wir stellen dir unsere Lieblingsbücher vor und bieten dir tiefgehende Rezensionen zu den neuesten Fantasy-Romanen.
-- **Tipps für Schriftsteller:** Hast du selbst eine Geschichte zu erzählen? Wir teilen unsere besten Tipps und Tricks, um deine eigenen Fantasy-Welten zu erschaffen.
-- **Kunst und Inspiration:** Lass dich von fantastischer Kunst inspirieren und entdecke, wie visuelle Darstellungen von Geschichten die Fantasie anregen können.
-
-## Warum dieser Blog?
-
-Fantasie hat die Kraft, uns zu entführen und uns zu helfen, neue Perspektiven zu entdecken. Wir glauben, dass Geschichten, die unsere Vorstellungskraft beflügeln, einen tiefen Einfluss auf unser Leben haben können. Dieser Blog soll eine Plattform sein, um diese Begeisterung zu teilen und dich dazu zu ermutigen, deine eigene Fantasie zu entfalten.
-
-## Was du hier nicht finden wirst
-
-- **Kluge Ratgeber:** Dies ist kein gewöhnlicher Blog über Karriere oder Finanzen. Wenn du nach pragmatischen Lebensweisheiten suchst, bist du hier vielleicht nicht am richtigen Ort.
-- **Tagesaktuelle News:** Hier geht es nicht um Politik oder Wirtschaft, sondern um die Dinge, die über den Alltag hinausgehen – Magie, Abenteuer und Geschichten!
-
-Wir freuen uns darauf, gemeinsam mit dir auf eine Reise durch die unendlichen Weiten der Fantasie zu gehen. Schließ dich uns an und lass dich von der Magie verzaubern! ✨
-
-Bleib dran, dein Abenteuer beginnt hier!
-
----
-
-*„Fantasie ist die Kunst, das Unmögliche möglich zu machen.“*
+Auf diese Weise hoffe ich, den einen oder anderen zu motivieren, sich mit den Themen zu beschäftigen, Ihnen einen umfassenden Überblick über verschiedene Themen zu geben und vielleicht auch den einen oder anderen Denkanstoß zu liefern.
