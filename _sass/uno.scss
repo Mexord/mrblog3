@@ -1,28 +1,4 @@
-
-@font-face {
-    font-family: 'Raleway';
-    src: url('../fonts/foundation-icons/Raleway-VariableFont_wght.ttf') format('truetype');
-    font-weight: 400 700;
-    font-style: normal;
-}
-
-@font-face {
-    font-family: 'Roboto Slab';
-    src: url('../fonts/foundation-icons/RobotoSlab-VariableFont_wght.ttf') format('truetype');
-    font-weight: 300 400;
-    font-style: normal;
-}
-
-/* Stelle sicher, dass die Schriftarten auch in den entsprechenden CSS-Klassen verwendet werden */
-body {
-    font-family: 'Raleway', sans-serif;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: 'Roboto Slab', serif;
-}
-
-
+@import 'https://fonts.googleapis.com/css?family=Raleway:400,700|Roboto+Slab:300,400)';
 /* http://meyerweb.com/eric/tools/css/reset/
 	 v2.0 | 20110126
 	 License: none (public domain)
